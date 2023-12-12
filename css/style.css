@@ -1,0 +1,88 @@
+.warna1{
+    background-color: #65B741;
+}
+
+.warna2{
+    background-color: #E26EE5;
+}
+
+.warna3{
+    background-color: #7E30E1;
+}
+
+.warna4{
+    background-color: rgb(24, 1, 66);
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/ps.jpg');
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-lipstik{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/lipkrim.jpeg');
+    background-size:cover;
+    background-position: center;
+}
+
+.kategori-serum{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/serum.jpeg');
+    background-size:cover;
+    background-position: center;
+}
+
+.kategori-sunscreen{
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/glorious.jpeg');
+    background-size:cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #27005D;
+}
+
+.text-size{
+    font-size: 22px;
+    color: #27005D;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe{
+    background-color: #E26EE5;
+}
+
+.content-subscribe a{
+    color: black;
+}
+
+.banner-produk{
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../image/background.jpg');
+    background-position: 50% 50%;
+}
+
+.produk-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
